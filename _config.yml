@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Argibeltza"
-  avatar           : "/assets/images/pagina/logo.jpg"
+  avatar           : "/assets/images/pagina/logo.png"
   bio              : "CTF player" #<br>HackTheBox ATeam"
   location         : "Spain"
   email            : #"
