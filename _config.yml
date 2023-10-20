@@ -23,7 +23,7 @@ description              : "Argibeltza's CTFs"
 url                      : "https://argibeltza.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "argibeltza/argibeltza.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-logo                     : "/assets/images/Pagina.png"
+logo                     : "\assets\images\Pagina.png"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Argibeltza"
-  avatar           : "/assets/images/Logo.jpg"
+  avatar           : "\assets\images\Logo.jpg"
   bio              : "CTF player" #<br>HackTheBox ATeam"
   location         : "Spain"
   email            : #"
