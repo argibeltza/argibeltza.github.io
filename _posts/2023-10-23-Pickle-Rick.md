@@ -2,7 +2,7 @@
 layout: single
 title: Pickle-Rick-CTF-Tryhackme Machine
 excerpt: "This page will be the steps to follow to complete the tryhackme Pickle Rick CTF machine."
-date: 2023-10-21
+date: 2023-10-23
 classes: wide
 header:
   teaser: /assets/images/Rick/logo.PNG 
