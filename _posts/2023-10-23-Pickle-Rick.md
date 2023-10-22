@@ -5,7 +5,7 @@ excerpt: "This page will be the steps to follow to complete the tryhackme Pickle
 date: 2023-10-21
 classes: wide
 header:
-  teaser: /assets/images/Rick/logo.png 
+  teaser: /assets/images/Rick/logo.PNG 
   teaser_home_page: true
   icon: /assets/images/thm.png
 categories:
